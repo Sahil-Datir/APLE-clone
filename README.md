@@ -1,1 +1,1 @@
-# APLE-clone
+# APPLE-clone
